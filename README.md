@@ -4,3 +4,5 @@ supported
 -ashe
 -vayne
 -caitlyn
+-Mundo
+-Amumu
