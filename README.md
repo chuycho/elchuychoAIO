@@ -1,8 +1,10 @@
-# elchuychoAIO Comming Soon!! I think so...
+# elchuychoAIO
 supported
 -cassio
 -ashe
 -vayne
 -caitlyn
--Mundo
--Amumu
+-mundo
+-amumu
+-elise
+-malzahar
