@@ -1,5 +1,5 @@
 # elchuychoAIO
-supported
+#supported
 -cassio
 -ashe
 -vayne
@@ -8,3 +8,6 @@ supported
 -amumu
 -elise
 -malzahar
+#Ready, not updated
+-supah neeko
+-orianna
