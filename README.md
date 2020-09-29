@@ -8,6 +8,6 @@
 -amumu
 -elise
 -malzahar
-#Ready, not updated
 -supah neeko
+#Ready, not updated
 -orianna
