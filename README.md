@@ -11,3 +11,7 @@
 -supah neeko
 #Ready, not updated
 -orianna
+# Upcoming
+-syndra
+-Karma
+-Zilean
