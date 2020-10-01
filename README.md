@@ -9,7 +9,8 @@
 -malzahar
 -supah neeko
 # Ready, not updated
--orianna
+-oriann
+- diana
 # Upcoming
 -syndra
 -Karma
