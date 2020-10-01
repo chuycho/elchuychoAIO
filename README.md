@@ -1,17 +1,17 @@
 # Supported
--cassio
--ashe
--vayne
--caitlyn
--mundo
--amumu
--elise
--malzahar
--supah neeko
+- cassio
+- ashe
+- vayne
+- caitlyn
+- mundo
+- amumu
+- elise
+- malzahar
+- supah neeko
 # Ready, not updated
--oriann
+- orianna
 - diana
 # Upcoming
--syndra
--Karma
--Zilean
+- syndra
+- Karma
+- Zilean
