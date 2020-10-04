@@ -12,6 +12,7 @@
 - orianna
 - diana
 - morgana
+- pyke
 - syndra (Beta)
 # Upcoming
 - Karma
