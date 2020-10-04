@@ -11,7 +11,8 @@
 # Ready, not updated
 - orianna
 - diana
+- morgana
 # Upcoming
-- syndra
+- syndra (Beta)
 - Karma
 - Zilean
