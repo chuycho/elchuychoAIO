@@ -17,3 +17,4 @@
 # Upcoming
 - Karma
 - Zilean
+- Lux
