@@ -12,7 +12,7 @@
 - orianna
 - diana
 - morgana
-# Upcoming
 - syndra (Beta)
+# Upcoming
 - Karma
 - Zilean
