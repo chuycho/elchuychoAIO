@@ -18,3 +18,8 @@
 - syndra (Beta)
 # Upcoming
 - Lux
+- Twitch
+- Ahri
+- Brand
+- Janna
+- Alistar 
