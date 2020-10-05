@@ -14,7 +14,7 @@
 - morgana
 - pyke
 - karma
+- zilean
 - syndra (Beta)
 # Upcoming
-- Zilean
 - Lux
