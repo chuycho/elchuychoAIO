@@ -13,8 +13,8 @@
 - diana
 - morgana
 - pyke
+- karma
 - syndra (Beta)
 # Upcoming
-- Karma
 - Zilean
 - Lux
