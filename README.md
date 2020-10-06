@@ -7,14 +7,14 @@
 - amumu
 - elise
 - malzahar
-- supah neeko
-# Ready, not updated
+- neeko
 - orianna
 - diana
 - morgana
 - pyke
 - karma
 - zilean
+# Ready, not updated
 - syndra (Beta)
 # Upcoming
 - Lux
