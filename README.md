@@ -15,6 +15,7 @@
 - karma
 - zilean
 # Ready, not updated
+- twitch
 - syndra (Beta)
 # Upcoming
 - Lux
