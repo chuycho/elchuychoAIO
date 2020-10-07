@@ -23,3 +23,5 @@
 - Brand
 - Janna
 - Alistar 
+- twisted fate
+- nidalee
