@@ -16,9 +16,9 @@
 - zilean
 # Ready, not updated
 - twitch
+- lux
 - syndra (Beta)
 # Upcoming
-- Lux
 - Ahri
 - Brand
 - Janna
