@@ -25,3 +25,5 @@
 - Alistar 
 - twisted fate
 - nidalee
+- malphite
+- viktor
