@@ -28,3 +28,4 @@
 - malphite
 - viktor
 - Nami
+- quinn
