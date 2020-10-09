@@ -27,3 +27,4 @@
 - nidalee
 - malphite
 - viktor
+- Nami
