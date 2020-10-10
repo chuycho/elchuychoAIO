@@ -1,3 +1,5 @@
+# DISABLE SAMIRA JUNGLE CLEAR W XDD UNTIL NEXT UPDATE FIX
+
 # Supported
 - cassio
 - ashe
