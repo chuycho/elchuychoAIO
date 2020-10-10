@@ -14,11 +14,11 @@
 - pyke
 - karma
 - zilean
-# Ready, not updated
 - samira
 - twitch
 - lux
 - quinn
+# Ready, not updated
 - syndra (Beta)
 # Upcoming
 - Ahri
