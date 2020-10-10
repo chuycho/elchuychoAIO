@@ -20,6 +20,7 @@
 - quinn
 - syndra (Beta)
 # Upcoming
+- Samira
 - Ahri
 - Brand
 - Janna
