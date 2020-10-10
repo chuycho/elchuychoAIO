@@ -17,6 +17,7 @@
 # Ready, not updated
 - twitch
 - lux
+- quinn
 - syndra (Beta)
 # Upcoming
 - Ahri
@@ -28,4 +29,3 @@
 - malphite
 - viktor
 - Nami
-- quinn
