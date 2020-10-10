@@ -15,12 +15,12 @@
 - karma
 - zilean
 # Ready, not updated
+- samira
 - twitch
 - lux
 - quinn
 - syndra (Beta)
 # Upcoming
-- Samira
 - Ahri
 - Brand
 - Janna
