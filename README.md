@@ -21,7 +21,7 @@
 # Ready, not updated
 - syndra (Beta)
 - Malzahar clear change, Q prediction improved
-- Caitlyn Auto W Immobile
+- Caitlyn Auto W Immobile, Semi options added
 # Upcoming
 - Ahri
 - Brand
