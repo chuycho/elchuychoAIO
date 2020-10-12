@@ -22,6 +22,7 @@
 - syndra (Beta)
 - Malzahar clear change, Q prediction improved
 - Caitlyn Auto W Immobile, Semi options added
+- masterQ
 # Upcoming
 - Ahri
 - Brand
@@ -32,5 +33,4 @@
 - malphite
 - viktor
 - Nami
-- masterQ
 - Add elchuychoShield HealthBar
