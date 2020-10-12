@@ -23,6 +23,7 @@
 - Malzahar clear change, Q prediction improved
 - Caitlyn Auto W Immobile, Semi options added
 - masterQ
+- karma combo mode fix
 # Upcoming
 - Ahri
 - Brand
