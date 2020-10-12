@@ -24,6 +24,7 @@
 - Caitlyn Auto W Immobile, Semi options added
 - masterQ
 - karma combo mode fix
+- Zilean farm change
 # Upcoming
 - Ahri
 - Brand
