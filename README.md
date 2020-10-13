@@ -26,9 +26,10 @@
 - karma combo mode fix
 - Zilean farm change
 - samira change farm / shield
+- brand
 # Upcoming
 - Ahri
-- Brand
+- sylas
 - Janna
 - Alistar 
 - twisted fate
@@ -37,4 +38,4 @@
 - viktor
 - Nami
 - Add elchuychoShield HealthBar
-- Brand
+- darius
