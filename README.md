@@ -25,6 +25,7 @@
 - masterQ
 - karma combo mode fix
 - Zilean farm change
+- samira change farm / shield
 # Upcoming
 - Ahri
 - Brand
