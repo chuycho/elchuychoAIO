@@ -23,7 +23,7 @@
 # Ready, not updated
 - syndra (Beta)
 - fixed masteryi console error distance. This cnsole error wont affect gameplay so u can ignore it
-# Upcoming
+# Upcoming (Project on Pause)
 - Ahri
 - sylas
 - Janna
