@@ -22,6 +22,7 @@
 - brand
 # Ready, not updated
 - syndra (Beta)
+- fixed masteryi console error distance. This cnsole error wont affect gameplay so u can ignore it
 # Upcoming
 - Ahri
 - sylas
