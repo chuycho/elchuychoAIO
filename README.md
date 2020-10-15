@@ -23,6 +23,7 @@
 # Ready, not updated
 - syndra (Beta)
 - fixed masteryi console error distance. This cnsole error wont affect gameplay so u can ignore it
+- Darius
 # Upcoming (Project on Pause)
 - Ahri
 - sylas
@@ -34,4 +35,3 @@
 - viktor
 - Nami
 - Add elchuychoShield HealthBar
-- darius
