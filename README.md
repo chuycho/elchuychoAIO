@@ -23,7 +23,7 @@
 - darius
 # Ready, not updated
 - syndra (Beta)
-# Upcoming (Project on Pause)
+# Upcoming
 - Ahri
 - sylas
 - Janna
