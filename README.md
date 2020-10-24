@@ -23,7 +23,6 @@
 - darius
 # Ready, not updated
 - syndra (Beta)
-- Ashe use w after attack, Q farm range change
 # Upcoming
 - Ahri
 - sylas
