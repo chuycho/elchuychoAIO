@@ -1,3 +1,5 @@
+# Update 10.22 1-2 days, Patience
+
 # Supported
 - masteryi
 - cassio
@@ -26,7 +28,7 @@
 # Upcoming
 - Ahri
 - sylas
-- Janna
+- Kindred
 - Alistar 
 - twisted fate
 - nidalee
