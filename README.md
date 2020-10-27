@@ -30,7 +30,7 @@
 - sylas
 - Kindred
 - Alistar 
-- twisted fate
+- kai' sa
 - nidalee
 - malphite
 - viktor
