@@ -1,4 +1,4 @@
-# Update 10.22 1-2 days, Patience
+# Update 10.23 1-3 days, Patience
 
 # Supported
 - masteryi
