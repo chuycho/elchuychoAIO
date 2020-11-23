@@ -1,4 +1,4 @@
-# Update 10.22 1-3 days
+# Update 10.24 1-3 days
 
 # Supported
 - masteryi
