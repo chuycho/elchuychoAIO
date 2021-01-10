@@ -1,5 +1,3 @@
-# Update 10.24 1-3 days
-
 # Supported
 - masteryi
 - cassio
@@ -23,9 +21,11 @@
 - quinn
 - brand
 - darius
-# Ready, not updated
-- syndra (Beta)
+
 # Upcoming
+-orianna
+-master yi
+
 - Ahri
 - sylas
 - Kindred
@@ -35,4 +35,3 @@
 - malphite
 - viktor
 - Nami
-- Add elchuychoShield HealthBar
