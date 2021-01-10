@@ -1,5 +1,4 @@
 # Supported
-- masteryi
 - cassio
 - ashe
 - vayne
@@ -9,7 +8,6 @@
 - elise
 - malzahar
 - neeko
-- orianna
 - diana
 - morgana
 - pyke
@@ -23,8 +21,8 @@
 - darius
 
 # Upcoming
--orianna
--master yi
+- orianna
+- master yi
 
 - Ahri
 - sylas
