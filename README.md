@@ -20,10 +20,10 @@
 - brand
 - darius
 
+# Ready Not Updated
+- master yi
 # Upcoming
 - orianna
-- master yi
-
 - Ahri
 - sylas
 - Kindred
