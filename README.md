@@ -24,7 +24,7 @@
 - master yi
 - orianna
 
-#Upcoming
+# Upcoming
 - john
 
 # Soon
