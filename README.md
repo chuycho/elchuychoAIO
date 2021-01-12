@@ -22,8 +22,9 @@
 
 # Ready Not Updated
 - master yi
-# Upcoming
 - orianna
+
+# Upcoming
 - Ahri
 - sylas
 - Kindred
