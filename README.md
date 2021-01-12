@@ -24,7 +24,10 @@
 - master yi
 - orianna
 
-# Upcoming
+#Upcoming
+- john
+
+# Soon
 - Ahri
 - sylas
 - Kindred
