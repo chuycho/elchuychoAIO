@@ -24,9 +24,9 @@
 - Master Yi
 - Orianna
 - Jhin
+- Zyra
 
 # Upcoming
-- Zyra
 - Leona
 - Tristonga
 - Sivir
