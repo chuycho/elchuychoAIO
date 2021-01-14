@@ -26,6 +26,10 @@
 - Jhin
 
 # Upcoming
+- Zyra
+- Leona
+- Tristonga
+- Sivir
 
 # Soon
 - Ahri
