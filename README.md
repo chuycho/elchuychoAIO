@@ -21,11 +21,11 @@
 - darius
 
 # Ready Not Updated
-- master yi
-- orianna
+- Master Yi
+- Orianna
+- Jhin
 
 # Upcoming
-- john
 
 # Soon
 - Ahri
