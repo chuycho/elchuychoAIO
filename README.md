@@ -32,6 +32,7 @@
 - Leona
 - Tristonga
 - Sivir
+- Malphite
 
 # Soon
 - Ahri
