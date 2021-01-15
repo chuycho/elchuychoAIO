@@ -1,4 +1,9 @@
 # Supported
+- Master Yi
+- Orianna
+- Jhin
+- Zyra
+
 - cassio
 - ashe
 - vayne
@@ -21,10 +26,7 @@
 - darius
 
 # Ready Not Updated
-- Master Yi
-- Orianna
-- Jhin
-- Zyra
+
 
 # Upcoming
 - Leona
