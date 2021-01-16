@@ -26,10 +26,9 @@
 - darius
 
 # Ready Not Updated
-
+- Leona
 
 # Upcoming
-- Leona
 - Tristonga
 - Sivir
 - Malphite
