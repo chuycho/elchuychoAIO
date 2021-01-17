@@ -3,7 +3,6 @@
 - Orianna
 - Jhin
 - Zyra
-
 - cassio
 - ashe
 - vayne
@@ -27,9 +26,9 @@
 
 # Ready Not Updated
 - Leona
+- Tristana
 
 # Upcoming
-- Tristonga
 - Sivir
 - Malphite
 
