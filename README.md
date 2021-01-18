@@ -28,9 +28,9 @@
 - leona
 - tristana
 - malphite
+- sivir
 
 # Upcoming
-- Sivir
 
 # Soon
 - Ahri
