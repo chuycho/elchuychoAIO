@@ -25,12 +25,12 @@
 - darius
 
 # Ready Not Updated
-- Leona
-- Tristana
+- leona
+- tristana
+- malphite
 
 # Upcoming
 - Sivir
-- Malphite
 
 # Soon
 - Ahri
@@ -39,6 +39,5 @@
 - Alistar 
 - kai' sa
 - nidalee
-- malphite
 - viktor
 - Nami
