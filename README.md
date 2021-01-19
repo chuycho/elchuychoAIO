@@ -31,6 +31,8 @@
 - sivir
 
 # Upcoming
+- katarina
+- zac
 
 # Soon
 - Ahri
