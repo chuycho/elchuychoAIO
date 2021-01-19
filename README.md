@@ -1,4 +1,8 @@
 # Supported
+- leona
+- tristana
+- malphite
+- sivir
 - Master Yi
 - Orianna
 - Jhin
@@ -25,10 +29,6 @@
 - darius
 
 # Ready Not Updated
-- leona
-- tristana
-- malphite
-- sivir
 
 # Upcoming
 - katarina
