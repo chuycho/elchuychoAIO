@@ -31,10 +31,12 @@
 # Ready Not Updated
 
 # Upcoming
-- katarina
+- ziggs
 - zac
+-jinx
 
 # Soon
+- katarina
 - Ahri
 - sylas
 - Kindred
