@@ -35,6 +35,7 @@
 - zac
 - ahri
 - jinx
+- syndra
 
 # Soon
 - katarina
