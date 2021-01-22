@@ -33,11 +33,11 @@
 # Upcoming
 - ziggs
 - zac
--jinx
+- ahri
+- jinx
 
 # Soon
 - katarina
-- Ahri
 - sylas
 - Kindred
 - Alistar 
