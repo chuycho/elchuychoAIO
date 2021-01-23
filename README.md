@@ -29,6 +29,10 @@
 - darius
 
 # Ready Not Updated
+- Veigar
+- fixed combo damage text
+- Lux jg steal
+- Darius R damage modify
 
 # Upcoming
 - ziggs
