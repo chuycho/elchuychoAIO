@@ -36,6 +36,7 @@
 - ahri
 - jinx
 - syndra
+- kayn
 
 # Soon
 - katarina
