@@ -33,9 +33,9 @@
 - fixed combo damage text
 - Lux jg steal
 - Darius R damage modify
+- Ziggs
 
 # Upcoming
-- ziggs
 - zac
 - ahri
 - jinx
