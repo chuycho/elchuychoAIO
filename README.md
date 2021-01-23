@@ -37,6 +37,7 @@
 - jinx
 - syndra
 - kayn
+- rengar
 
 # Soon
 - katarina
