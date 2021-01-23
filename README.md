@@ -34,13 +34,13 @@
 - Lux jg steal
 - Darius R damage modify
 - Ziggs
+- Kayn
 
 # Upcoming
 - zac
 - ahri
 - jinx
 - syndra
-- kayn
 - rengar
 
 # Soon
