@@ -35,11 +35,11 @@
 - Darius R damage modify
 - Ziggs
 - Kayn
+- zac
+- jinx
 
 # Upcoming
-- zac
 - ahri
-- jinx
 - syndra
 - rengar
 
