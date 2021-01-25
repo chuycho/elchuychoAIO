@@ -37,10 +37,10 @@
 - Kayn
 - zac
 - jinx
-
-# Upcoming
 - ahri
 - syndra
+
+# Upcoming
 - rengar
 
 # Soon
