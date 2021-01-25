@@ -1,4 +1,11 @@
 # Supported
+- veigar
+- ziggs
+- kayn
+- zac
+- jinx
+- ahri
+- syndra
 - leona
 - tristana
 - malphite
@@ -29,16 +36,6 @@
 - darius
 
 # Ready Not Updated
-- Veigar
-- fixed combo damage text
-- Lux jg steal
-- Darius R damage modify
-- Ziggs
-- Kayn
-- zac
-- jinx
-- ahri
-- syndra
 
 # Upcoming
 - rengar
