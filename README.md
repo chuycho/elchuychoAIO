@@ -36,9 +36,9 @@
 - darius
 
 # Ready Not Updated
+- rengar
 
 # Upcoming
-- rengar
 
 # Soon
 - katarina
