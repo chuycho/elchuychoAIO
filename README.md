@@ -39,13 +39,15 @@
 # Ready Not Updated
 
 # Upcoming
-
-# Soon
+- velkoz
+- jarvan
+- jax
 - katarina
 - sylas
-- Kindred
-- Alistar 
-- kai' sa
-- nidalee
-- viktor
-- Nami
+- kindred
+
+# Changelog (Only Lastest Update)
+- Smite activator
+- Fix some press button for thos how like to toggle pressed button on utilities
+- Added Rengar
+
