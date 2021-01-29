@@ -1,4 +1,5 @@
 # Supported
+- rengar
 - veigar
 - ziggs
 - kayn
@@ -36,7 +37,6 @@
 - darius
 
 # Ready Not Updated
-- rengar
 
 # Upcoming
 
