@@ -37,9 +37,12 @@
 - darius
 
 # Ready Not Updated
+- velkoz
+- spell farm button AIO
+- jhin e after attack
+- cait e slider, r text nptifier
 
 # Upcoming
-- velkoz
 - jarvan
 - jax
 - katarina
