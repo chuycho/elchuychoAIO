@@ -38,6 +38,7 @@
 
 # Ready Not Updated
 - velkoz
+- katarina
 - spell farm button AIO
 - jhin e after attack
 - cait e slider, r text nptifier
@@ -45,7 +46,6 @@
 # Upcoming
 - jarvan
 - jax
-- katarina
 - sylas
 - kindred
 
