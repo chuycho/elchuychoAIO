@@ -1,4 +1,6 @@
 # Supported
+- velkoz
+- katarina
 - rengar
 - veigar
 - ziggs
@@ -37,11 +39,6 @@
 - darius
 
 # Ready Not Updated
-- velkoz
-- katarina
-- spell farm button AIO
-- jhin e after attack
-- cait e slider, r text nptifier
 
 # Upcoming
 - jarvan
@@ -50,7 +47,10 @@
 - kindred
 
 # Changelog (Only Lastest Update)
-- Smite activator
+- Smite activator fix 0
 - Fix some press button for thos how like to toggle pressed button on utilities
-- Added Rengar
+- Added Rengar, Katarina, Velkoz
+- jhin E after attack
+- Vayne changes to R
+- cait E slider = R notifier if killable
 
