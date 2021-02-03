@@ -39,10 +39,10 @@
 - darius
 
 # Ready Not Updated
+- jax
 
 # Upcoming
 - jarvan
-- jax
 - sylas
 - kindred
 
