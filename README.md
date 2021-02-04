@@ -40,11 +40,14 @@
 
 # Ready Not Updated
 - jax
+- cassipeoa/yi rewritten
 
 # Upcoming
 - jarvan
 - sylas
 - kindred
+- fiora
+- camille
 
 # Changelog (Only Lastest Update)
 - Smite activator fix 0
