@@ -41,12 +41,13 @@
 # Ready Not Updated
 - jax
 - cassipeoa/yi rewritten
+- kassadin
+- fiora
 
 # Upcoming
 - jarvan
 - sylas
 - kindred
-- fiora
 - camille
 
 # Changelog (Only Lastest Update)
