@@ -43,6 +43,7 @@
 - cassipeia rewritten
 - kassadin
 - fiora
+- Gnar
 
 - EQ semi Caitlyn
 - Smite fix red buff count
