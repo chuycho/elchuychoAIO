@@ -1,4 +1,8 @@
 # Supported
+- jax
+- kassadin
+- fiora
+- gnar
 - velkoz
 - katarina
 - rengar
@@ -39,16 +43,7 @@
 - darius
 
 # Ready Not Updated
-- jax
-- cassipeia rewritten
-- kassadin
-- fiora
-- Gnar
 
-- EQ semi Caitlyn
-- Smite fix red buff count
-- emotes and mastery
-- autolevel fix R
 
 # Upcoming
 - jarvan
