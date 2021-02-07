@@ -40,9 +40,14 @@
 
 # Ready Not Updated
 - jax
-- cassipeoa/yi rewritten
+- cassipeia rewritten
 - kassadin
 - fiora
+
+- EQ semi Caitlyn
+- Smite fix red buff count
+- emotes and mastery
+- autolevel fix R
 
 # Upcoming
 - jarvan
@@ -51,10 +56,4 @@
 - camille
 
 # Changelog (Only Lastest Update)
-- Smite activator fix 0
-- Fix some press button for thos how like to toggle pressed button on utilities
 - Added Rengar, Katarina, Velkoz
-- jhin E after attack
-- Vayne changes to R
-- cait E slider = R notifier if killable
-
