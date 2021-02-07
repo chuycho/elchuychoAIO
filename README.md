@@ -43,11 +43,11 @@
 - darius
 
 # Ready Not Updated
-
+- jarvanIV
 
 # Upcoming
-- jarvan
 - sylas
+- thresh
 - kindred
 - camille
 
