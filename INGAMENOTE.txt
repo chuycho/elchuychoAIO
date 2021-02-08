@@ -1,1 +1,1 @@
-jax, kassadin, fiora, gnar, velkoz, katarina, rengar added, cassiopieia re-written
+cassiopieia re-written
