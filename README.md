@@ -50,6 +50,7 @@
 - thresh
 - kindred
 - camille
+- ekko
 
 # Changelog (Only Lastest Update)
-- Added Rengar, Katarina, Velkoz
+- idremember
