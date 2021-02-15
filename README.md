@@ -45,9 +45,9 @@
 # Ready Not Updated
 - jarvanIV
 - olaf
+- sylas
 
 # Upcoming
-- sylas
 - thresh
 - kindred
 - camille
