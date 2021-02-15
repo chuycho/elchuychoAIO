@@ -46,6 +46,7 @@
 - jarvanIV
 - olaf
 - sylas
+- fix elchuycho Shield
 
 # Upcoming
 - thresh
