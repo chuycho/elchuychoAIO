@@ -44,6 +44,7 @@
 
 # Ready Not Updated
 - jarvanIV
+- olaf
 
 # Upcoming
 - sylas
