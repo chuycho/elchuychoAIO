@@ -46,12 +46,12 @@
 - jarvanIV
 - olaf
 - sylas
-- fix elchuycho Shield
+- camille
+- fix elchuychoShield
 
 # Upcoming
 - thresh
 - kindred
-- camille
 - ekko
 
 # Changelog (Only Lastest Update)
