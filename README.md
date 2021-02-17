@@ -47,7 +47,9 @@
 - olaf
 - sylas
 - camille
-- fix elchuychoShield
+- samira rewritten
+- fix elchuychoShield re-written
+- fix fiora
 
 # Upcoming
 - thresh
