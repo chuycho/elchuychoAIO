@@ -47,9 +47,12 @@
 - olaf
 - sylas
 - camille
-- samira rewritten
+- samira re-written
+- pyke re-written
 - fix elchuychoShield re-written
 - fix fiora
+- katarina some changes
+- veigar last hit
 
 # Upcoming
 - thresh
