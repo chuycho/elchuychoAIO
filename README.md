@@ -43,6 +43,15 @@
 - darius
 
 # Ready Not Updated
+
+
+# Upcoming
+- thresh
+- kindred
+- ekko
+- gragas
+
+# Changelog (Only Lastest Update)
 - jarvanIV
 - olaf
 - sylas
@@ -54,12 +63,3 @@
 - katarina some changes
 - veigar last hit
 - autoward
-
-# Upcoming
-- thresh
-- kindred
-- ekko
-- gragas
-
-# Changelog (Only Lastest Update)
-- idremember
