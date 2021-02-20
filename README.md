@@ -59,6 +59,7 @@
 - thresh
 - kindred
 - ekko
+- gragas
 
 # Changelog (Only Lastest Update)
 - idremember
