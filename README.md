@@ -50,6 +50,8 @@
 - kindred
 - ekko
 - gragas
+- master yi change stick
+- elchuychoshield test
 
 # Changelog (Only Lastest Update)
 - jarvanIV
@@ -58,7 +60,6 @@
 - camille
 - samira re-written
 - pyke re-written
-- fix elchuychoShield re-written
 - fix fiora
 - katarina some changes
 - veigar last hit
