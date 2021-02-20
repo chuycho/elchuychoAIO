@@ -53,6 +53,7 @@
 - fix fiora
 - katarina some changes
 - veigar last hit
+- autoward
 
 # Upcoming
 - thresh
