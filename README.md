@@ -46,7 +46,9 @@
 
 
 # Upcoming
-
+- gragas
+- ekko
+- kindred
 
 # Changelog (Only Lastest Update)
 - jarvanIV
