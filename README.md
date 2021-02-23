@@ -46,12 +46,7 @@
 
 
 # Upcoming
-- thresh
-- kindred
-- ekko
-- gragas
-- master yi change stick
-- elchuychoshield test
+
 
 # Changelog (Only Lastest Update)
 - jarvanIV
