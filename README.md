@@ -1,4 +1,8 @@
 # Supported
+- jarvanIV
+- sylas
+- olaf
+- camille
 - jax
 - kassadin
 - fiora
