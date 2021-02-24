@@ -51,13 +51,4 @@
 - kindred
 
 # Changelog (Only Lastest Update)
-- jarvanIV
-- olaf
-- sylas
-- camille
-- samira re-written
-- pyke re-written
-- fix fiora
-- katarina some changes
-- veigar last hit
-- autoward
+- olaf, jax, mundo, fiora, ehmmm idk what more stop moving after attack abilities
