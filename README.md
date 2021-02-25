@@ -47,6 +47,10 @@
 - darius
 
 # Ready Not Updated
+- ekko
+- pyke fix almost nothing
+- jix small changes
+- elchuychoshield fix changes
 
 
 # Upcoming
