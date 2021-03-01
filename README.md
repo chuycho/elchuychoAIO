@@ -52,6 +52,19 @@
 - jix small changes
 - elchuychoshield fix changes
 
+- SYLAS ENABLE E ACTIVE, jungle fix
+- Jinx AUto turn off q combo/lanclear
+- Jinx Change E pred
+- EKKO
+- Pyke R 2 times cast and after death, some addition after death
+- -Gragas
+- Volibear
+- AUTOLEVELER
+- AUTOWARD INCLUDE SUPP and some fixes
+- MASTER YI REWRITTEN
+- VI
+- volibear
+
 
 # Upcoming
 - gragas
