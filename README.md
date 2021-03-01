@@ -64,8 +64,11 @@
 
 
 # Upcoming
-- gragas
-- ekko
+- Rengar some changes
+- xin zhao
+- hecarim?
+- evelynn
+- reksai?
 - kindred
 
 # Changelog (Only Lastest Update)
