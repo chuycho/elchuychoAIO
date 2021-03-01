@@ -51,14 +51,7 @@
 - darius
 
 # Ready Not Updated
-- elchuychoshield fix changes
-- SYLAS ENABLE E ACTIVE, jungle fix
-- Jinx AUto turn off q combo/lanclear
-- Jinx Change E pred
-- Pyke R 2 times cast and after death, some addition after death
-- AUTOLEVELER fixed
-- AUTOWARD INCLUDE SUPP and some fixes
-- MASTER YI REWRITTEN
+
 
 # Upcoming
 - Rengar some changes
@@ -69,4 +62,12 @@
 - kindred
 
 # Changelog (Only Lastest Update)
-- olaf, jax, mundo, fiora, ehmmm idk what more stop moving after attack abilities
+- elchuychoshield fix changes
+- SYLAS ENABLE E ACTIVE, jungle fix
+- Jinx AUto turn off q combo/lanclear
+- Jinx Change E pred
+- Pyke R 2 times cast and after death, some addition after death
+- AUTOLEVELER fixed
+- AUTOWARD INCLUDE SUPP and some fixes
+- MASTER YI REWRITTEN
+- EKKO, VI, GRAGAS, VOLIBEAR
