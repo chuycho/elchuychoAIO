@@ -1,4 +1,8 @@
 # Supported
+- ekko
+- gragas
+- vi
+- volibear
 - jarvanIV
 - sylas
 - olaf
@@ -47,21 +51,14 @@
 - darius
 
 # Ready Not Updated
-- ekko
 - elchuychoshield fix changes
 - SYLAS ENABLE E ACTIVE, jungle fix
 - Jinx AUto turn off q combo/lanclear
 - Jinx Change E pred
-- EKKO
 - Pyke R 2 times cast and after death, some addition after death
-- Gragas
-- Volibear
 - AUTOLEVELER fixed
 - AUTOWARD INCLUDE SUPP and some fixes
 - MASTER YI REWRITTEN
-- VI
-- volibear
-
 
 # Upcoming
 - Rengar some changes
