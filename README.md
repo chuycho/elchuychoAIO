@@ -51,7 +51,7 @@
 - darius
 
 # Ready Not Updated
-
+- ezreal
 
 # Upcoming
 - Rengar some changes
