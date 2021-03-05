@@ -52,6 +52,8 @@
 
 # Ready Not Updated
 - ezreal
+- kindred
+- change target selector
 
 # Upcoming
 - Rengar some changes
