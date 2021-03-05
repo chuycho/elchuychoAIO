@@ -1,4 +1,3 @@
 DONATIONS: paypal.me/elchuycho  uwu!
 Disable sprediction/block dangerous dash/sebbylib
-Added, ekko, vi, gragas, volibear
-Yi Rewritten, CHANGELOG ON GITHUB
+CHANGELOG ON GITHUB
