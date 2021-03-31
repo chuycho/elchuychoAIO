@@ -1,3 +1,6 @@
+# Project on pause
+No accounts
+
 # Supported
 - ekko
 - gragas
