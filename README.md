@@ -1,7 +1,9 @@
 # Project on pause
-No accounts
+Current banrate, impossible to work on new champs or update them
 
 # Supported
+- Ezreal
+- Kindred
 - ekko
 - gragas
 - vi
@@ -63,6 +65,3 @@ No accounts
 - reksai?
 
 # Changelog (Only Lastest Update)
-- ezreal added
-- kindred added (Not tested)
-- Others changes idk
